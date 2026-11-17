@@ -1,0 +1,31 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+app
+
+# Architecture specific binaries
+*.test
+*.out
+
+# Environment variables
+.env
+*.env.local
+
+# User uploads (keep directory structure with .gitkeep)
+upload/*
+!upload/.gitkeep
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
