@@ -1,12 +1,18 @@
-# MillTrack
+<div align="center">
 
-[![CI Build](https://github.com/cgreensoho-source/MillTrack/actions/workflows/ci.yml/badge.svg)](https://github.com/cgreensoho-source/MillTrack/actions)
-[![Go Version](https://img.shields.io/badge/Go-1.25+-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+  <img src="web-admin/public/logo.png" alt="MillTrack Logo" width="280" />
 
-Sistem Informasi Terpadu Pengelolaan Pabrik Kelapa Sawit (Palm Oil Mill), Pengumpulan Sampel Lapangan Terverifikasi GPS, dan Analisis Data Produksi.
+  # MillTrack
+
+  [![CI Build](https://github.com/cgreensoho-source/MillTrack/actions/workflows/ci.yml/badge.svg)](https://github.com/cgreensoho-source/MillTrack/actions)
+  [![Go Version](https://img.shields.io/badge/Go-1.25+-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+  [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+  [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+  [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+  <p><strong>Sistem Informasi Terpadu Pengelolaan Pabrik Kelapa Sawit (Palm Oil Mill), Pengumpulan Sampel Lapangan Terverifikasi GPS, dan Analisis Data Produksi.</strong></p>
+
+</div>
 
 ---
 
